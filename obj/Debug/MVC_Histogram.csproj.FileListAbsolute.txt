@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\MVC_Histogram\bin\Debug\MVC_Histogram.exe.config
+C:\Users\stefa\source\repos\MVC_Histogram\bin\Debug\MVC_Histogram.exe
+C:\Users\stefa\source\repos\MVC_Histogram\bin\Debug\MVC_Histogram.pdb
+C:\Users\stefa\source\repos\MVC_Histogram\obj\Debug\MVC_Histogram.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\MVC_Histogram\obj\Debug\MVC_Histogram.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\MVC_Histogram\obj\Debug\MVC_Histogram.exe
+C:\Users\stefa\source\repos\MVC_Histogram\obj\Debug\MVC_Histogram.pdb
